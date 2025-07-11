@@ -31,7 +31,7 @@
 <p>
   📦 Flutter BLoC for scalable app architecture <br/>
   🎯 Advanced Flutter <br/>
-  🧠 Data Structures & Algorithms with C++
+  🧠 Design and Analysis of Algorithms 
 </p>
 </div>
 
