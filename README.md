@@ -25,7 +25,7 @@
 </p>
 
 ---
-
+<div align="center">
 <h1>🎯 Currently Learning</h1>
 
 <p>
