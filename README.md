@@ -1,7 +1,7 @@
 <h2> Hi, I'm Arooba... </h2>
 
- 👨‍💻 Flutter developer 
- 📚 Computer Science Student
+ - 👨‍💻 Flutter developer 
+ - 📚 Computer Science Student
 
 
 ---
