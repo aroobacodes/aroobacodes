@@ -1,12 +1,10 @@
 <div align="center">
 
-<h1>🚧 Code. Debug. Repeat. I’m Arooba 👩‍💻</h1>
+<h1>🚧 Hi, I’m Arooba 👩‍💻</h1>
 
 </div>
-
-🎓 Computer Science Student  
-💙 Flutter Developer in Training  
-🚀 Passionate about building beautiful mobile UIs and writing clean code!
+👨‍💻 Flutter developer
+📚 Computer Science Student
 
 ---
 
