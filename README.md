@@ -6,15 +6,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aroobaakhtar&theme=tokyonight" width="45%" />
-</p>
-
-
----
 
 ## 🛠️ Tools and Tech
 
